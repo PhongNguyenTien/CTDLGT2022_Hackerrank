@@ -31,7 +31,7 @@ class Node implements Comparable<Node> {
     }
 }
 
-public class Find_the_Median  {
+public class Find_the_Running_Median  {
     public static void main(String[] args) throws Exception {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
